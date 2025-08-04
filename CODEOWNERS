@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Dolecto
+/src/backend/database.py      @Dolecto
+/src/backend/routers/auth.py  @Dolecto
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Dolecto
